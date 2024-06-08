@@ -1,0 +1,1 @@
+This JavaScript code manages movie NFTs. The NFTs array stores them. The mintNFT function adds new NFTs with metadata like movieName, directorName, globalReach, and releaseDate. The listNFTs function prints all NFTs' metadata, and getTotalSupply prints the total number of NFTs.
